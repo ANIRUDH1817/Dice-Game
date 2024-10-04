@@ -1,1 +1,1 @@
-# Dice-Game
+# Dice-Roller-Game
